@@ -55,3 +55,12 @@ dkms.conf
 *.dwo
 /.vs/LukeDino/FileContentIndex/39db1792-eb8f-4c90-9d92-202ed605098f.vsidx
 /LukeDino/secrets
+/LukeDino/obj/LukeDino.csproj.nuget.g.targets
+/LukeDino/obj/LukeDino.csproj.nuget.g.props
+/.vs/VSWorkspaceState.json
+/.vs/ProjectEvaluation/lukedino.projects.v7.bin
+/.vs/ProjectEvaluation/lukedino.metadata.v7.bin
+/.vs/LukeDino/v17/DocumentLayout.json
+/.vs/LukeDino/v17/.suo
+/.vs/LukeDino/v17/.futdcache.v2
+/.vs/LukeDino/FileContentIndex/9e1e52b2-0786-4f17-b1ce-040f04d5e873.vsidx
