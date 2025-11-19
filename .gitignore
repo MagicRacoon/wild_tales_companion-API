@@ -54,19 +54,4 @@ dkms.conf
 # debug information files
 *.dwo
 /.vs/LukeDino/FileContentIndex/39db1792-eb8f-4c90-9d92-202ed605098f.vsidx
-/.vs/LukeDino/FileContentIndex
-/.vs/wild_tales_companion_api/v17
-/.vs/ProjectEvaluation/lukedino.metadata.v7.bin
-/.vs/ProjectEvaluation/lukedino.projects.v7.bin
-/.vs/ProjectEvaluation/lukedino.metadata.v9.bin
-/.vs/ProjectEvaluation/lukedino.projects.v9.bin
-/.vs/LukeDino/v17/DocumentLayout.json
-/.vs/LukeDino/v17/.suo
-/.vs/LukeDino/v17/.futdcache.v2
-/.vs/VSWorkspaceState.json
-/LukeDino/obj/Debug/net9.0/LukeDino.assets.cache
-/LukeDino/obj/LukeDino.csproj.nuget.dgspec.json
-/LukeDino/obj/LukeDino.csproj.nuget.g.targets
-/LukeDino/obj/LukeDino.csproj.nuget.g.props
-/LukeDino/obj/project.assets.json
-/LukeDino/obj/project.nuget.cache
+/LukeDino/secrets

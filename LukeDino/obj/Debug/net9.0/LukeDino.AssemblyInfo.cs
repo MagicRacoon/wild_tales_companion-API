@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LukeDino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e0b784d582d985e996d60c9f351599c79a7dd68")]
 [assembly: System.Reflection.AssemblyProductAttribute("LukeDino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LukeDino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
