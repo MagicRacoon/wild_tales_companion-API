@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8K0vIh/6Zqg=",
+  "dgSpecHash": "+sRMlzgd5dY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\luke.litherland\\Downloads\\Dino\\LukeDino-master\\LukeDino-master\\LukeDino\\LukeDino.csproj",
+  "projectFilePath": "C:\\Users\\luke.litherland\\Documents\\Dev\\wild_tales_companion_api\\LukeDino\\LukeDino.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luke.litherland\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\luke.litherland\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -8429,11 +8429,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luke.litherland\\Downloads\\Dino\\LukeDino-master\\LukeDino-master\\LukeDino\\LukeDino.csproj",
+      "projectUniqueName": "C:\\Users\\luke.litherland\\Documents\\Dev\\wild_tales_companion_api\\LukeDino\\LukeDino.csproj",
       "projectName": "LukeDino",
-      "projectPath": "C:\\Users\\luke.litherland\\Downloads\\Dino\\LukeDino-master\\LukeDino-master\\LukeDino\\LukeDino.csproj",
+      "projectPath": "C:\\Users\\luke.litherland\\Documents\\Dev\\wild_tales_companion_api\\LukeDino\\LukeDino.csproj",
       "packagesPath": "C:\\Users\\luke.litherland\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luke.litherland\\Downloads\\Dino\\LukeDino-master\\LukeDino-master\\LukeDino\\obj\\",
+      "outputPath": "C:\\Users\\luke.litherland\\Documents\\Dev\\wild_tales_companion_api\\LukeDino\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
