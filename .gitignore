@@ -54,3 +54,4 @@ dkms.conf
 # debug information files
 *.dwo
 /.vs/LukeDino/FileContentIndex/39db1792-eb8f-4c90-9d92-202ed605098f.vsidx
+/LukeDino/secrets
