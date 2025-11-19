@@ -9,10 +9,10 @@ using LukeDino.Classes;
 var builder = WebApplication.CreateBuilder(args);
 
 // LUKE - CHANGE HERE
-//FirebaseApp.Create(new AppOptions
-//{
-    //Credential = GoogleCredential.FromFile("Secrets/firebase-admin.json")
-//});
+FirebaseApp.Create(new AppOptions
+{
+    Credential = GoogleCredential.FromFile("secrets/firebase-admin.json")
+});
 
 IConfigurationRoot configuration = new ConfigurationBuilder()
     .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
