@@ -1,10 +1,6 @@
 # Visual Studio folder
 .vs/
 
-# Build artifacts
-bin/
-obj/
-
 # Prerequisites
 *.d
 
